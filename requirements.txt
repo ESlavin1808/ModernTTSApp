@@ -1,0 +1,8 @@
+﻿customtkinter
+edge-tts
+openai-whisper
+sounddevice
+numpy
+pygame
+pyperclip
+tkinterdnd2

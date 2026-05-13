@@ -1,0 +1,35 @@
+# ─── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.whl
+
+# ─── Virtual environment ──────────────────────────────────
+venv/
+.env
+
+# ─── App data (auto-generated) ────────────────────────────
+audio_temp/
+models/
+history.json
+settings.json
+
+# ─── Personal memory notes ────────────────────────────────
+memory/
+
+# ─── IDE / Editor ─────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+
+# ─── OS junk ──────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.log
