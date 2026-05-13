@@ -96,7 +96,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 # 5. Запустить
-python main.py
+python main.py  или run.bat
 ```
 
 ### Запуск без консоли
