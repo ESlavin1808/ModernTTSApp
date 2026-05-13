@@ -83,7 +83,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/ВАШ_АККАУНТ/voice-studio.git
+git clone https://github.com/ESlavin1808/voice-studio.git
 cd voice-studio
 
 # 2. Создать виртуальное окружение
